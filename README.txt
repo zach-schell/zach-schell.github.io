@@ -1,7 +1,7 @@
 # Welcome!
 
 This repository ("webpage") was created by Zacharia Schell.
-The latest update was on June 18, 2026.
+The latest update was on July 4, 2026.
 
 The purpose of this webpage is to host my personal portfolio of data science projects.
 
